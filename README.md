@@ -32,5 +32,7 @@ This project was built to practice mobile app development, API integration, and 
 
 
 ```md
-![Home Screen](screenshots/home.png)
-![Details Screen](screenshots/details.png)
+![Home Screen](<img width="423" height="717" alt="image" src="https://github.com/user-attachments/assets/7359cdc6-c2af-4f20-938f-1cdf9b71f322" />
+.png)
+![Details Screen](<img width="407" height="677" alt="image" src="https://github.com/user-attachments/assets/ac56946e-b0d3-4a75-95e9-603bacf51343" />
+.png)
