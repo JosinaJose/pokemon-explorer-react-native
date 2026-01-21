@@ -1,4 +1,3 @@
-# pokemon-explorer-react-native
 
 # Pokémon Explorer App
 
@@ -29,13 +28,11 @@ This project was built to practice mobile app development, API integration, and 
 - React Navigation  
 
 ---
-
-
-```md
 ## Screenshots
 
 ### Home Screen
-![Home Screen](https://github.com/user-attachments/assets/7359cdc6-c2af-4f20-938f-1cdf9b71f322)
+![Home Screen](screenshots/home.png)
 
 ### Details Screen
-![Details Screen](https://github.com/user-attachments/assets/ac56946e-b0d3-4a75-95e9-603bacf51343)
+![Details Screen](screenshots/details.png)
+
